@@ -2,7 +2,7 @@
 GM_addStyle(`
     #tm-fill-panel{position:fixed;right:14px;bottom:14px;z-index:999999;background:#111827;color:#e5e7eb;
       font-family:ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Ubuntu; border-radius:12px; box-shadow:0 8px 28px rgba(0,0,0,.35);
-      width: 340px; padding:12px}
+      width: 400px; padding:12px}
     #tm-fill-panel *{box-sizing:border-box;font-size:13px}
     #tm-fill-panel h3{margin:0 0 8px;font-size:14px}
     #tm-fill-panel .row{display:flex;gap:8px;align-items:center;margin:6px 0}
