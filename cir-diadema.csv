@@ -1,87 +1,88 @@
-Data,Nome,Idade,Codigo,Preceptor,Cirurgião,Observador,Procedimento
-20/06/2025,Ana Maria Martins Gonçalves,65,802168,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Microcirurgia Para Tumor Intracraniano
-21/06/2025,Vanda da Conceição Silva,51,583829,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Limpeza Cirurgica FO em Região Lombar
-24/06/2025,Francisco das Chagas Sousa,69,801844,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Drenagem de Hematoma Subagudo+Colocação de Dreno Cef
-24/06/2025,Jose Manoel da Silva,62,802630,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,DVE a Esquerda
-24/06/2025,Maria Amara Leite,69,802699,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Drenagem de Hematoma Frontal a Direita
-25/06/2025,Carlos Rodrigues da Cruz,53,801927,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Artrodese Cervical Posterior VP C2-6+Laminotectomia Descomp
-26/06/2025,Amilton Jorge de Sousa Junior,41,799262,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Microcirurgia Para Tumor Intracraniano
-27/06/2025,Maria Ines Basso Canton,65,802208,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Artrodese Cervical+Toracica Via Posterior
-02/07/2025,Vanderlei Lanza,66,802103,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Laminoplastia Cervical C3-C6
-02/07/2025,Dionisio do Patrocinio,59,803092,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Colocação de DVE à Direita
-02/07/2025,Alexandre Batista de Souza,52,720742,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Infiltração lombar
-02/07/2025,Cirleide Ferreira de Oliveira,48,803143,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Microdiscectomia Lombar
-03/07/2025,Bruna Bussolin Dias,34,716841,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Infiltração lombar
-03/07/2025,Jose Carlos dos Santos,48,802732,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Laminectomia L4+Artrodese L3-L5 VP
-04/07/2025,Jose Antonio de Oliveira,68,803218,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Drenagem de Hematoma Subdural Fronto Parietal à Direita
-08/07/2025,Pedro Alves de Souza Filho,33,803322,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Clipagem de Aneurisma Cerebral
-09/07/2025,Rafael Silva Pinto,28,803821,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Microcirurgia para Ressecção de Lesão Intradural Extra M
-10/07/2025,Nivalda Dias da Silva,53,798181,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Descompressão Ressec Lateral L4-L5 à Direita
-11/07/2025,Anaides Moreira Correa,72,711431,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Microcirurgia para Clipagem Aneurisma Cerebral
-11/07/2025,Jesus de Fatima Zuntini,69,803583,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Drenagem de Hematoma Extradural
-12/07/2025,Sirlene Aparecida Paulino,55,350995,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Ressecção de Tumor Intracerebral Esquerdo
-14/07/2025,Jose Luiz de Santana,75,803079,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Drenagem de Hematoma Subdural à Direita
-15/07/2025,Braz Correa de Almeida,73,803695,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Drenagem de Hematoma Subdural + Colocação de Dreno S
-16/07/2025,Romilda do Nascimento Santos,43,532185,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Artrodese Toraco-Lombo-Sacra Anterior
-16/07/2025,Moises Pereira da Silva,79,803855,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Drenagem de Hematoma Subdural Crônico
-17/07/2025,Daniel Fitipaldi Lorenzo,43,577571,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Artrodese Lombar L2-S1 + TLIF L2-L3 e L3-L4
-17/07/2025,Maria Aparecida Ramos,78,803933,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Drenagem de Hematoma Subdural Esquerdo
-23/07/2025,Ildete de Souza Santos,73,743296,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Infiltração de Articulação Sacroilíaca Esquerda + Bloqueio
-23/07/2025,Jose Bento dos Santos,69,803624,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Artrodese de Coluna Cervical
-23/07/2025,Janaina Araujo da Silva,50,462186,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Infiltração lombar
-23/07/2025,Antonio Soares de Andrade,40,760969,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Bloqueio Geniculares de Sistema Nervoso Periférico
-24/07/2025,Wesley Antonio Trindade Moraes,38,672515,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Retirada de Válvula de DVP
-24/07/2025,Jose Pereira da Silva,53,258766,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Artrodese de Coluna Lombar L4-L5
-25/07/2025,Givanildo Almeida de Franca Lourenço,48,771367,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Microcirurgia para Tumor Intracrâniano
-25/07/2025,Dionisio do Patrocinio,59,803092,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,DVP à Direita
-27/07/2025,Yolanda Gomes Bregalda,80,804507,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Drenagem de Higroma Subdural Bilateral
-29/07/2025,Carlos Eduardo Jaconis,62,742940,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Infiltração lombar
-29/07/2025,Guedra Sainvil Dossou,47,640811,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Infiltração lombar
-29/07/2025,Rodney Clark Silva,40,804392,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Craniotomia Descompressiva
-30/07/2025,Willton Masceniano Pinto,60,714317,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Infiltração lombar
-30/07/2025,Edineusa Martinez Alves,52,173713,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Artrodese Cervical via Anterior C3+C4+C5+C6
-30/07/2025,Leandro Sales do Lago,42,705660,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Infiltração lombar
-30/07/2025,Evandro Souza de Andrade,32,731583,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Infiltração de Articulação Sacroilíaca Esquerda+Infiltração
-31/07/2025,Edinalva Maria da Silva,52,799217,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Microdiscectomia L5-S1 Esquerda
-31/07/2025,Francisco Aldeni Monteiro de Sousa,32,755242,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Exerese de Tumor Cerebral
-01/08/2025,Antonia Santana de Castro Fernandes,50,337246,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Descompressao Occipito-Cervical+Aspiração de Tonsilas
-01/08/2025,Aurora Ribeiro Mendes,56,8898,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Infiltração de Articulações Sacroiliacas Bilateral+Infiltração
-01/08/2025,Elane Maria Lopes,56,107250,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Infiltração de Articulações Sacroiliacas Bilateral+Infiltração
-01/08/2025,Eleonor Hernandes Alves,69,804768,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Drenagem de Hematoma de Encerramento Intracerebral
-05/08/2025,Edison Fernandes Pereira,57,676941,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Infiltração Sacra
-05/08/2025,Maria Regina de Jesus Tixeira,75,724887,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Infiltração Lombar L4+L5 Esquerda e Sacral
-05/08/2025,Pedro Manoel de Lima Gonçalves,7,741309,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Troca de DVE
-05/08/2025,Edjilane da Silva Araujo,53,804389,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Microcirurgia Para Tumor Intradural e extramedular
-07/08/2025,Heloisa Mara de Campos Travassos,69,805108,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Passagem de DVE
-07/08/2025,Maria Niuza Custodia Lessa,65,117378,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Infiltração anestesica em articulação sacroiliaca E + botac
-07/08/2025,Marizete Alcantara Pinho da Silva,59,542023,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Vertebroplastia L1
-07/08/2025,Sandra Regina Degane Ferreira,53,474774,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Bloqueio Prolongados de Sistema Nervoso Periferico
-08/08/2025,Abaete Bento Lima,69,52019,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Bloqueio Prolongados de Sistema Nervoso Periferico
-08/08/2025,Heloisa Mara de Campos Travassos,69,805108,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Craniotomia Descompressiva de Fossa Posterior+Drenag
-08/08/2025,Jamisson da Silva Santos,32,804765,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Verteboplastia de Vertebra L2
-08/08/2025,Pedro Manoel de Lima Gonçalves,7,741309,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Passagem de DVE Parietal a Esquerda+ Retirada de DVP
-12/08/2025,Francisco Ferreira da Silva,85,297362,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Bloqueio Foraminal De Raiz De L4 Direita+ Infiltração de L5
-13/08/2025,Andrea Cruz Dias,70,609753,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Corpectomia C7 VA + Artrodese C5-T2 VP
-13/08/2025,Jose Luis da Silva,56,750829,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Infiltração de Articulação Sacroiliaca Esquerda + Bloqueio
-14/08/2025,Rossangela Conceicao da Silva,70,682065,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Bloqueio de Nervos Sacrais Ramos Mediais Bilateral + I
-14/08/2025,Maria de Lurdes Batista da Silva,76,805435,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Foraminotomia L3-L5 A Direita + L4-S1 A Esquerda
-15/08/2025,Paloma Nunes da Silva,78,804336,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Corpectomia Cervical Via Anterior Distal C4C5
-15/08/2025,Vanessa de Oliveira,40,805933,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Infiltração de Hip Frontal D+ Implante de DVE
-15/08/2025,Maria Aparecida Ramos Pereira,46,297912,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Limpeza Cirurgica de Drenagem de Bordas
-15/08/2025,Maria de Fatima Barbosa da Silva,52,749139,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Infiltração Lombar
-15/08/2025,Pedro Manoel de Lima Gonçalves,64,804399,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Drenagem de Ventriculoperitoneal e Retirada de Dve
-15/08/2025,Simone Aparecida Oja Bezerra,84,521916,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Clipagem de Aneurisma de Seg Oftalmico de Aci Esquerdo
-15/08/2025,Diego Mendonça da Silva,44,804359,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Craniotomia Descompressiva de Hematoma Subdural Agu
-20/08/2025,Edilene Pereira de Sousa,35,754968,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Microcirurgia Para Tumor em Angulo Pont Cerebelar
-21/08/2025,Maria Nilda Loiola Fernandes,75,249681,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Drenagem de Hematoma Subdural Agudo
-21/08/2025,Helio Millatta,44,295854,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Artrodese T10-L3 + Laminectomia T12-L2
-23/08/2025,Maria Aparecida Ramos Pereira,75,805933,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Artrodese Toraco-Lombo Sacra Posterior T10-L3
-23/08/2025,Francisco Bispo de Freitas,48,803591,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Limpeza Cirurgica de Ferida Operator
-23/08/2025,Guerda Sainvil Dossou,47,640811,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Craniotomia Descompressiva
-24/08/2025,Luciene Pereira Coelho,40,588357,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Microdiscectomia L4-L5 + Descompressao Over the Top H
-24/08/2025,Lorrany Borges Silva,18,796838,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,DVE a Esquerda
-24/08/2025,Luciano Rodrigues Duarte,43,780555,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Cranioplastia Ftp esquerda
-29/08/2025,Benta Vieira de Oliveira,84,805470,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Corpectomia Cervical Anterior de C7
-29/08/2025,Jesus da Silva Ludogero,53,806487,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Drenagem de Hematoma Subdural Subagudo Esquerdo
-29/08/2025,Lucia Aparecida de Oliveira,64,806248,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Drenagem de Hematoma Subdural a Esquerda
-30/08/2025,Feliciano Pereira da Silva,63,806382,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,DVE + Descompressao de Fossa Posterior + Drenagem Hi
+Data,Nome,Idade,Codigo,Preceptor,Cirurgião,Observador,Procedimento,Submetida
+20/06/2025,Ana Maria Martins Gonçalves,65,802168,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Microcirurgia Para Tumor Intracraniano,False
+21/06/2025,Vanda da Conceição Silva,51,583829,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Limpeza Cirurgica FO em Região Lombar,False
+24/06/2025,Francisco das Chagas Sousa,69,801844,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Drenagem de Hematoma Subagudo+Colocação de Dreno Cef,False
+24/06/2025,Jose Manoel da Silva,62,802630,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,DVE a Esquerda,False
+24/06/2025,Maria Amara Leite,69,802699,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Drenagem de Hematoma Frontal a Direita,False
+25/06/2025,Carlos Rodrigues da Cruz,53,801927,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Artrodese Cervical Posterior VP C2-6+Laminotectomia Descomp,False
+26/06/2025,Amilton Jorge de Sousa Junior,41,799262,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Microcirurgia Para Tumor Intracraniano,False
+27/06/2025,Maria Ines Basso Canton,65,802208,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Artrodese Cervical+Toracica Via Posterior,False
+02/07/2025,Vanderlei Lanza,66,802103,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Laminoplastia Cervical C3-C6,False
+02/07/2025,Dionisio do Patrocinio,59,803092,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Colocação de DVE à Direita,False
+02/07/2025,Alexandre Batista de Souza,52,720742,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Infiltração lombar,False
+02/07/2025,Cirleide Ferreira de Oliveira,48,803143,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Microdiscectomia Lombar,False
+03/07/2025,Bruna Bussolin Dias,34,716841,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Infiltração lombar,False
+03/07/2025,Jose Carlos dos Santos,48,802732,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Laminectomia L4+Artrodese L3-L5 VP,False
+04/07/2025,Jose Antonio de Oliveira,68,803218,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Drenagem de Hematoma Subdural Fronto Parietal à Direita,False
+08/07/2025,Pedro Alves de Souza Filho,33,803322,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Clipagem de Aneurisma Cerebral,False
+09/07/2025,Rafael Silva Pinto,28,803821,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Microcirurgia para Ressecção de Lesão Intradural Extra M,False
+10/07/2025,Nivalda Dias da Silva,53,798181,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Descompressão Ressec Lateral L4-L5 à Direita,False
+11/07/2025,Anaides Moreira Correa,72,711431,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Microcirurgia para Clipagem Aneurisma Cerebral,False
+11/07/2025,Jesus de Fatima Zuntini,69,803583,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Drenagem de Hematoma Extradural,False
+12/07/2025,Sirlene Aparecida Paulino,55,350995,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Ressecção de Tumor Intracerebral Esquerdo,False
+14/07/2025,Jose Luiz de Santana,75,803079,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Drenagem de Hematoma Subdural à Direita,False
+15/07/2025,Braz Correa de Almeida,73,803695,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Drenagem de Hematoma Subdural + Colocação de Dreno S,False
+16/07/2025,Romilda do Nascimento Santos,43,532185,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Artrodese Toraco-Lombo-Sacra Anterior,False
+16/07/2025,Moises Pereira da Silva,79,803855,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Drenagem de Hematoma Subdural Crônico,False
+17/07/2025,Daniel Fitipaldi Lorenzo,43,577571,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Artrodese Lombar L2-S1 + TLIF L2-L3 e L3-L4,False
+17/07/2025,Maria Aparecida Ramos,78,803933,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Drenagem de Hematoma Subdural Esquerdo,False
+23/07/2025,Ildete de Souza Santos,73,743296,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Infiltração de Articulação Sacroilíaca Esquerda + Bloqueio,False
+23/07/2025,Jose Bento dos Santos,69,803624,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Artrodese de Coluna Cervical,False
+23/07/2025,Janaina Araujo da Silva,50,462186,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Infiltração lombar,False
+23/07/2025,Antonio Soares de Andrade,40,760969,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Bloqueio Geniculares de Sistema Nervoso Periférico,False
+24/07/2025,Wesley Antonio Trindade Moraes,38,672515,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Retirada de Válvula de DVP,False
+24/07/2025,Jose Pereira da Silva,53,258766,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Artrodese de Coluna Lombar L4-L5,False
+25/07/2025,Givanildo Almeida de Franca Lourenço,48,771367,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Microcirurgia para Tumor Intracrâniano,False
+25/07/2025,Dionisio do Patrocinio,59,803092,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,DVP à Direita,False
+27/07/2025,Yolanda Gomes Bregalda,80,804507,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Drenagem de Higroma Subdural Bilateral,False
+29/07/2025,Carlos Eduardo Jaconis,62,742940,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Infiltração lombar,False
+29/07/2025,Guedra Sainvil Dossou,47,640811,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Infiltração lombar,False
+29/07/2025,Rodney Clark Silva,40,804392,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Craniotomia Descompressiva,False
+30/07/2025,Willton Masceniano Pinto,60,714317,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Infiltração lombar,False
+30/07/2025,Edineusa Martinez Alves,52,173713,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Artrodese Cervical via Anterior C3+C4+C5+C6,False
+30/07/2025,Leandro Sales do Lago,42,705660,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Infiltração lombar,False
+30/07/2025,Evandro Souza de Andrade,32,731583,Rafael Duarte de Souza Loduca,Luana Marques Ribeiro,,Infiltração de Articulação Sacroilíaca Esquerda+Infiltração,False
+31/07/2025,Edinalva Maria da Silva,52,799217,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Microdiscectomia L5-S1 Esquerda,False
+31/07/2025,Francisco Aldeni Monteiro de Sousa,32,755242,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,Luana Marques Ribeiro,Exerese de Tumor Cerebral,False
+01/08/2025,Antonia Santana de Castro Fernandes,50,337246,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Descompressao Occipito-Cervical+Aspiração de Tonsilas,False
+01/08/2025,Aurora Ribeiro Mendes,56,8898,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Infiltração de Articulações Sacroiliacas Bilateral+Infiltração,False
+01/08/2025,Elane Maria Lopes,56,107250,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Infiltração de Articulações Sacroiliacas Bilateral+Infiltração,False
+01/08/2025,Eleonor Hernandes Alves,69,804768,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Drenagem de Hematoma de Encerramento Intracerebral,False
+05/08/2025,Edison Fernandes Pereira,57,676941,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Infiltração Sacra,False
+05/08/2025,Maria Regina de Jesus Tixeira,75,724887,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Infiltração Lombar L4+L5 Esquerda e Sacral,False
+05/08/2025,Pedro Manoel de Lima Gonçalves,7,741309,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Troca de DVE,False
+05/08/2025,Edjilane da Silva Araujo,53,804389,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Microcirurgia Para Tumor Intradural e extramedular,False
+07/08/2025,Heloisa Mara de Campos Travassos,69,805108,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Passagem de DVE,False
+07/08/2025,Maria Niuza Custodia Lessa,65,117378,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Infiltração anestesica em articulação sacroiliaca E + botac,False
+07/08/2025,Marizete Alcantara Pinho da Silva,59,542023,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Vertebroplastia L1,False
+07/08/2025,Sandra Regina Degane Ferreira,53,474774,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Bloqueio Prolongados de Sistema Nervoso Periferico,False
+08/08/2025,Abaete Bento Lima,69,52019,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Bloqueio Prolongados de Sistema Nervoso Periferico,False
+08/08/2025,Heloisa Mara de Campos Travassos,69,805108,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Craniotomia Descompressiva de Fossa Posterior+Drenag,False
+08/08/2025,Jamisson da Silva Santos,32,804765,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Verteboplastia de Vertebra L2,False
+08/08/2025,Pedro Manoel de Lima Gonçalves,7,741309,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Passagem de DVE Parietal a Esquerda+ Retirada de DVP,False
+12/08/2025,Francisco Ferreira da Silva,85,297362,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Bloqueio Foraminal De Raiz De L4 Direita+ Infiltração de L5,False
+13/08/2025,Andrea Cruz Dias,70,609753,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Corpectomia C7 VA + Artrodese C5-T2 VP,False
+13/08/2025,Jose Luis da Silva,56,750829,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Infiltração de Articulação Sacroiliaca Esquerda + Bloqueio,False
+14/08/2025,Rossangela Conceicao da Silva,70,682065,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Bloqueio de Nervos Sacrais Ramos Mediais Bilateral + I,False
+14/08/2025,Maria de Lurdes Batista da Silva,76,805435,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Foraminotomia L3-L5 A Direita + L4-S1 A Esquerda,False
+15/08/2025,Paloma Nunes da Silva,78,804336,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Corpectomia Cervical Via Anterior Distal C4C5,False
+15/08/2025,Vanessa de Oliveira,40,805933,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Infiltração de Hip Frontal D+ Implante de DVE,False
+15/08/2025,Maria Aparecida Ramos Pereira,46,297912,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Limpeza Cirurgica de Drenagem de Bordas,False
+15/08/2025,Maria de Fatima Barbosa da Silva,52,749139,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Infiltração Lombar,False
+15/08/2025,Pedro Manoel de Lima Gonçalves,64,804399,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Drenagem de Ventriculoperitoneal e Retirada de Dve,False
+15/08/2025,Simone Aparecida Oja Bezerra,84,521916,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Clipagem de Aneurisma de Seg Oftalmico de Aci Esquerdo,False
+15/08/2025,Diego Mendonça da Silva,44,804359,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Craniotomia Descompressiva de Hematoma Subdural Agu,False
+20/08/2025,Edilene Pereira de Sousa,35,754968,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Microcirurgia Para Tumor em Angulo Pont Cerebelar,False
+21/08/2025,Maria Nilda Loiola Fernandes,75,249681,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Drenagem de Hematoma Subdural Agudo,False
+21/08/2025,Helio Millatta,44,295854,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Artrodese T10-L3 + Laminectomia T12-L2,False
+23/08/2025,Maria Aparecida Ramos Pereira,75,805933,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Artrodese Toraco-Lombo Sacra Posterior T10-L3,False
+23/08/2025,Francisco Bispo de Freitas,48,803591,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Limpeza Cirurgica de Ferida Operator,False
+23/08/2025,Guerda Sainvil Dossou,47,640811,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Craniotomia Descompressiva,False
+24/08/2025,Luciene Pereira Coelho,40,588357,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Microdiscectomia L4-L5 + Descompressao Over the Top H,False
+24/08/2025,Lorrany Borges Silva,18,796838,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,DVE a Esquerda,False
+24/08/2025,Luciano Rodrigues Duarte,43,780555,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Cranioplastia Ftp esquerda,False
+29/08/2025,Benta Vieira de Oliveira,84,805470,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Corpectomia Cervical Anterior de C7,False
+29/08/2025,Jesus da Silva Ludogero,53,806487,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Drenagem de Hematoma Subdural Subagudo Esquerdo,False
+29/08/2025,Lucia Aparecida de Oliveira,64,806248,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,Drenagem de Hematoma Subdural a Esquerda,False
+30/08/2025,Feliciano Pereira da Silva,63,806382,Rafael Duarte de Souza Loduca,Emanuela Alves Desmondes,,DVE + Descompressao de Fossa Posterior + Drenagem Hi,False
+,False
