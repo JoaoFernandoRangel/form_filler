@@ -1,21 +1,96 @@
+
 /* ===================== UI FLOTANTE ===================== */
 GM_addStyle(`
-    #tm-fill-panel{position:fixed;right:14px;bottom:14px;z-index:999999;background:#111827;color:#e5e7eb;
-      font-family:ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Ubuntu; border-radius:12px; box-shadow:0 8px 28px rgba(0,0,0,.35);
-      width: 400px; padding:12px}
-    #tm-fill-panel *{box-sizing:border-box;font-size:13px}
-    #tm-fill-panel h3{margin:0 0 8px;font-size:14px}
-    #tm-fill-panel .row{display:flex;gap:8px;align-items:center;margin:6px 0}
-    #tm-fill-panel input[type="number"]{width:90px;padding:6px;border-radius:8px;border:1px solid #374151;background:#0b1220;color:#e5e7eb}
-    #tm-fill-panel input[type="file"]{flex:1}
-    #tm-fill-panel button{padding:8px 10px;border:0;border-radius:10px;background:#2563eb;color:#fff;cursor:pointer}
-    #tm-fill-panel button.secondary{background:#374151}
-    #tm-fill-panel .muted{color:#9ca3af;font-size:12px;margin-top:2px}
-    #tm-fill-panel label.chk{display:flex;align-items:center;gap:6px;cursor:pointer}
-    #tm-fill-status{margin-top:6px;font-size:12px;color:#a7f3d0}
-    #tm-fill-error{margin-top:6px;font-size:12px;color:#fecaca}
-    #tm-fill-panel .spacer{height:6px;border-bottom:1px dashed #374151;margin:8px 0}
-  `);
+  #tm-fill-panel {
+    position: fixed;
+    right: 14px;
+    bottom: 14px;
+    z-index: 999999;
+    background: #111827;
+    color: #e5e7eb;
+    font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu;
+    border-radius: 12px;
+    box-shadow: 0 8px 28px rgba(0,0,0,.35);
+    width: 340px;
+    height: 340px;
+    padding: 12px;
+  }
+
+  #tm-fill-panel * {
+    box-sizing: border-box;
+    font-size: 13px;
+  }
+
+  #tm-fill-panel h3 {
+    margin: 0 0 8px;
+    font-size: 14px;
+  }
+
+  #tm-fill-panel .row {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    margin: 6px 0;
+  }
+
+  #tm-fill-panel input[type="number"] {
+    width: 90px;
+    padding: 6px;
+    border-radius: 8px;
+    border: 1px solid #374151;
+    background: #0b1220;
+    color: #e5e7eb;
+  }
+
+  #tm-fill-panel input[type="file"] {
+    flex: 1;
+  }
+
+  #tm-fill-panel button {
+    padding: 8px 10px;
+    border: 0;
+    border-radius: 10px;
+    background: #2563eb;
+    color: #fff;
+    cursor: pointer;
+  }
+
+  #tm-fill-panel button.secondary {
+    background: #374151;
+  }
+
+  #tm-fill-panel .muted {
+    color: #9ca3af;
+    font-size: 12px;
+    margin-top: 2px;
+  }
+
+  #tm-fill-panel label.chk {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    cursor: pointer;
+  }
+
+  #tm-fill-status {
+    margin-top: 6px;
+    font-size: 12px;
+    color: #a7f3d0;
+  }
+
+  #tm-fill-error {
+    margin-top: 6px;
+    font-size: 12px;
+    color: #fecaca;
+  }
+
+  #tm-fill-panel .spacer {
+    height: 6px;
+    border-bottom: 1px dashed #374151;
+    margin: 8px 0;
+  }
+`);
+
 
 const panel = document.createElement('div');
 panel.id = 'tm-fill-panel';
@@ -56,9 +131,7 @@ panel.innerHTML = `
   </div>
   <div id="tm-fill-status"></div>
   <div id="tm-fill-error"></div>
-  <div class="muted">Campos mapeados: Data, Nome→Iniciais, Idade (anos), Código, Cirurgião, Preceptor, Observador.</div>
   `;
-
 document.documentElement.appendChild(panel);
 
 const els = {
